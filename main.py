@@ -1,4 +1,5 @@
 # encoding=utf8
+#info
 import sys
 
 from py12306.app import *
